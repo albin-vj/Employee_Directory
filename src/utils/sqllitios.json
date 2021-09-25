@@ -1,0 +1,5 @@
+{   
+    "name": "employee.db", 
+    "createFromLocation" : 1, 
+    "location":"default"
+}

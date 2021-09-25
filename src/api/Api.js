@@ -1,0 +1,1 @@
+export const EMPLOYEE_DATA="https://www.mocky.io/v2/5d565297300000680030a986";
